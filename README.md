@@ -1,2 +1,2 @@
 # bedel
-Aplicativo para registro de ocorrências dentro dos IFMS Campus Dourados
+Aplicativo para registro de ocorrências dentro do IFMS Campus Dourados.
